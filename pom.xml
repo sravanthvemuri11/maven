@@ -17,7 +17,6 @@
   </dependencies>
   <build>
     <finalName>training</finalName>
-    <build>
     <plugins>
         <plugin>
             <groupId>org.apache.tomcat.maven</groupId>
